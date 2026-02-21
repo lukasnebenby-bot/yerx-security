@@ -1,0 +1,8 @@
+{
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "latest_version": "7.0.0",
+    "update_url": "https://discord.gg/yerx",
+    "banned_hwids": [],
+    "banned_ips": []
+}
