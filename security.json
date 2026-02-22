@@ -4,8 +4,6 @@
     "latest_version": "7.0.0",
     "update_url": "https://discord.gg/yerx",
     "banned_hwids": [],
-    "banned_ips": [
-        " 94.134.88.20"
-    ],
+    "banned_ips": [],
     "maintenance_mode": false
 }
