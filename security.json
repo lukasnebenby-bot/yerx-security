@@ -7,5 +7,5 @@
     "banned_ips": [
         "94.134.88.20"
     ],
-    "maintenance_mode": true
+    "maintenance_mode": false
 }
