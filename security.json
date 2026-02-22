@@ -5,5 +5,5 @@
     "update_url": "https://discord.gg/yerx",
     "banned_hwids": [],
     "banned_ips": [],
-    "maintenance_mode": true
+    "maintenance_mode": false
 }
