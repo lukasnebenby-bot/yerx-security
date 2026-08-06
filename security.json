@@ -1,9 +1,16 @@
 {
-    "maintenance": false,
-    "maintenance_msg": "System under maintenance.",
-    "latest_version": "7.0.0",
-    "update_url": "https://discord.gg/yerx",
     "banned_hwids": [],
-    "banned_ips": [],
-    "maintenance_mode": false
+    "banned_ips": [
+        "94.134.89.97"
+    ],
+    "maintenance_mode": false,
+    "update_required": false,
+    "latest_version": "7.0.0",
+    "min_version": "1.0.0",
+    "update_url": "https://discord.gg/yerx",
+    "update_url_windows": "",
+    "update_url_linux": "",
+    "update_message": "Es ist eine neue Version von Flays MP verf\u00fcgbar. Bitte installiere das Update und l\u00f6sche die alte Version.",
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance."
 }
