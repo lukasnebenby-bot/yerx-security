@@ -1,8 +1,6 @@
 {
     "banned_hwids": [],
-    "banned_ips": [
-        "94.134.89.97"
-    ],
+    "banned_ips": [],
     "maintenance_mode": false,
     "update_required": false,
     "latest_version": "7.0.0",
