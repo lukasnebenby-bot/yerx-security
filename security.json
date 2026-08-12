@@ -1,7 +1,7 @@
 {
     "banned_hwids": [],
     "banned_ips": [],
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "update_required": false,
     "latest_version": "",
     "min_version": "",
