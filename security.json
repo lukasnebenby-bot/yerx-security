@@ -1,7 +1,7 @@
 {
     "banned_hwids": [],
     "banned_ips": [],
-    "maintenance_mode": false,
+    "maintenance_mode": true,
     "update_required": false,
     "latest_version": "",
     "min_version": "",
@@ -9,5 +9,6 @@
     "update_url_windows": "",
     "update_url_linux": "",
     "update_message": "",
+    "discord_webhook": "",
     "soft_update": false
 }
